@@ -30,7 +30,7 @@ Musk's political activities, statements and views have made him a polarizing fig
 summary_template = """
 given the information {information} about a person I wnat you to create:
 1. A short summary
-2. twointeresting facts about them
+2. two interesting facts about them
 """
 
 summary_prompt_template = PromptTemplate(
